@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# a Significant Blog.
+# Gaspare Mattarella 
 
 Welcome to my Blog, I will pubblish posts about Data Science, Statistics and Machine Learning related topics.
