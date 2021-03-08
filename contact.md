@@ -1,6 +1,6 @@
 ---
-title: Portfolio
-layout: services
+title: Contact
+layout: contact
 bodyClass: page-contact
 ---
 
