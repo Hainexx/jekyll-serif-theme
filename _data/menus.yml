@@ -1,9 +1,9 @@
 main:
   - name: "Posts"
-    url: "/services/"
+    url: "/posts/"
     weight: 2
   - name: "Portfolio"
-    url: "/team/"
+    url: "/portfolio/"
     weight: 3
   - name: "About"
     url: "/about/"
