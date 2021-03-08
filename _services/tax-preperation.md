@@ -3,7 +3,7 @@ title: "Panel Data"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 6
-layout: service
+layout: post
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,

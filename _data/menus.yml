@@ -2,7 +2,7 @@ main:
   - name: "Posts"
     url: "/services/"
     weight: 2
-  - name: "Resume"
+  - name: "Portfolio"
     url: "/team/"
     weight: 3
   - name: "About"

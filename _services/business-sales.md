@@ -3,7 +3,7 @@ title: "Machine Learning"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 weight: 3
-layout: service
+layout: post
 ---
 
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
